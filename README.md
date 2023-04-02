@@ -47,10 +47,10 @@ Attributes description:
 
 
 ### TODO
--[x] Parse request
--[x] Calculate priority
--[x] Add value to priority calculations
--[ ] 100% Test coverage
--[ ] Resolve conflicts with really short tasks (0-1 min.)
+- [x] Parse request
+- [x] Calculate priority
+- [x] Add value to priority calculations
+- [ ] 100% Test coverage
+- [ ] Resolve conflicts with really short tasks (0-1 min.)
 
 ##### Time: 10:15-22:15 on some Sunday in early April 2023
